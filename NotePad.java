@@ -132,7 +132,7 @@ public class NotePad extends javax.swing.JFrame {
         jMenu4.setText("Option");
 
         jCheckBoxMenuItem1.setSelected(true);
-        jCheckBoxMenuItem1.setText("換行");
+        jCheckBoxMenuItem1.setText("change line");
         jCheckBoxMenuItem1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jCheckBoxMenuItem1ActionPerformed(evt);
