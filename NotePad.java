@@ -11,7 +11,7 @@ public class NotePad extends javax.swing.JFrame {
         initComponents();
         manager = new UndoManager();
         jTextArea1.getDocument().addUndoableEditListener(manager);
-        this.setTitle("happy");
+        this.setTitle("notepad");
     }
 
     /**
