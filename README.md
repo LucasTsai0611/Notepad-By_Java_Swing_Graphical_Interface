@@ -1,7 +1,7 @@
 # Notepad-By-Using-Java
 
 # Introduction
-This is a simple notepad implemented in java, you can donload the file to test it.Thanks!
+This is a simple notepad implemented in java to done text editing.
 <br></br>
 # Features
 
