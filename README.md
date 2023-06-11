@@ -1,4 +1,4 @@
-# Notepad-By-Using-Java
+# Notepad-By Using Java Swing Graphical Interface
 
 # Introduction
 This is a simple notepad implemented in java to done text editing.
