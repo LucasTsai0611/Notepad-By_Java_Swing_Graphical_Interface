@@ -1,7 +1,8 @@
 # Notepad-By Using Java Swing Graphical Interface
 
 # Introduction
-This is a simple notepad implemented in java to done text editing.
+Develop simple notepad by using the java swing graphical interface to complete text editing.
+
 <br></br>
 # Features
 
